@@ -2,7 +2,7 @@
 
 This repo provides tutorials on how to manipulate and analyze data in the vcf format.
 
-**BCFTOOLS TUTORIALS**
+**BCFTOOLS TUTORIALS**\
 [Install bcftools using anaconda](https://youtu.be/BLhVqBXL_v4) \
 [Install bcftools by building from source](https://youtu.be/EJGz3yryrPo)\
 [How to read VCF files using bcftools](https://youtu.be/7W7hrWNyCaM) \
