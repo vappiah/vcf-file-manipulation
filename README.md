@@ -1,6 +1,6 @@
 # vcf-file-manipulation
 
-This repo provides tutorials on how to manipulate and analyze data in the vcf format.
+This repo provides tutorials on how to manipulate and analyze data in the vcf format.\
 [You can buy me a coffee: https://www.buymeacoffee.com/bioinfocoach]
 
 **BCFTOOLS TUTORIALS**\
