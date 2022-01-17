@@ -11,3 +11,4 @@ This repo provides tutorials on how to manipulate and analyze data in the vcf fo
 [How to count the number of variants in a VCF file using linux](https://youtu.be/2XOnNgqRizs) \
 [Extract chromosome names form a VCF file](https://youtu.be/xT85qE-cR3w)\
 [How to rename chromsomes in a VCF file](https://youtu.be/LetWDG54hvg)\
+[Count the number of snps and indels in a VCF file](https://youtu.be/gLdy3WEwJEA)\
