@@ -2,7 +2,8 @@
 
 This repo provides tutorials on how to manipulate and analyze data in the vcf format.\
 ### Support my work
-https://www.buymeacoffee.com/bioinfocoach
+https://www.buymeacoffee.com/informatician
+
 
 
 **BCFTOOLS TUTORIALS**\
