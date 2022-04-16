@@ -1,8 +1,9 @@
 # vcf-file-manipulation
 
 This repo provides tutorials on how to manipulate and analyze data in the vcf format.\
-# Support my work
+### Support my work
 https://www.buymeacoffee.com/bioinfocoach
+
 
 **BCFTOOLS TUTORIALS**\
 [Install bcftools using anaconda](https://youtu.be/BLhVqBXL_v4) \
